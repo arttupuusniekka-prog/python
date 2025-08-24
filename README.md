@@ -1,2 +1,2 @@
-# python
-projektit
+# python moduuli 2
+tehtävät
